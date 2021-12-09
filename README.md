@@ -8,3 +8,6 @@ The image data from MNIST before and after adding the noise looks as shown below
 
 ![](images/Added%20noise.png)
 
+The architecture of Convolutional Autoencoders look like shown below. It contains encoder and decoder parts with 3 convolutional layers per each.
+
+![](images/cae.png)
