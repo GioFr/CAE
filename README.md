@@ -16,5 +16,8 @@ DOI of the paper where the image was published 10.1007/978-3-319-70096-0_39
 
 After applying CAE to MNIST data we get well recovered/denoised images,which is shown below
 
-![](images/denoised.png)
+![](images/Denoised.png)
 
+After calculating the mean-square error we find the image which has been recovered the worst and even in such case we can clearly distinguish the digit on the image, which we demonstrate it below
+
+![](images/worst.png)
